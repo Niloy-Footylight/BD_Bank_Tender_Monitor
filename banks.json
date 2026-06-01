@@ -1,0 +1,22 @@
+[
+  {
+    "bank": "BRAC Bank",
+    "url": "https://www.bracbank.com/page/e-tender"
+  },
+  {
+    "bank": "DBBL",
+    "url": "https://www.dutchbanglabank.com/etender/"
+  },
+  {
+    "bank": "City Bank",
+    "url": "https://www.thecitybank.com/tender"
+  },
+  {
+    "bank": "EBL",
+    "url": "https://www.ebl.com.bd/home/tender"
+  },
+  {
+    "bank": "Prime Bank",
+    "url": "https://www.primebank.com.bd/tender"
+  }
+]
